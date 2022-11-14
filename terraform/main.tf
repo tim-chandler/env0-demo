@@ -7,7 +7,7 @@ resource "azurerm_resource_group" "example" {
   location = "eastus2"
 }
 
-resource "azurerm_resource_group" "example" {
+resource "azurerm_resource_group" "example2" {
   name     = "rg-same-ole-same-ole"
   location = "eastus2"
 }
